@@ -1,0 +1,13 @@
+{
+  "name": "cypress-testes-brasa-grao",
+  "version": "1.0.0",
+  "description": "Suite de testes automatizados com Cypress baseada na Secao 4 do documento de referencia - Sistema Brasa & Grao",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^16.2.1"
+  }
+}

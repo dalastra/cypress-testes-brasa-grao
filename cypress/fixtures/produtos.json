@@ -1,0 +1,37 @@
+{
+  "produtoBebida": {
+    "nome": "Suco de Laranja Natural",
+    "categoria": "Bebida",
+    "preco": "12.50",
+    "estoque": "30",
+    "descricao": "Suco 100% natural, sem adição de açúcar"
+  },
+  "produtoPrecoNegativo": {
+    "nome": "Lanche Preco Negativo",
+    "categoria": "Lanche",
+    "preco": "-15.00",
+    "estoque": "10",
+    "descricao": "Tentativa de cadastro com preco negativo"
+  },
+  "produtoPrecoZero": {
+    "nome": "Lanche Preco Zero",
+    "categoria": "Lanche",
+    "preco": "0.00",
+    "estoque": "10",
+    "descricao": "Tentativa de cadastro com preco zero"
+  },
+  "produtoEstoqueNegativo": {
+    "nome": "Lanche Estoque Negativo",
+    "categoria": "Lanche",
+    "preco": "25.00",
+    "estoque": "-10",
+    "descricao": "Tentativa de cadastro com estoque negativo"
+  },
+  "produtoNomeEspacos": {
+    "nome": "   ",
+    "categoria": "Lanche",
+    "preco": "20.00",
+    "estoque": "5",
+    "descricao": "Tentativa de cadastro com nome apenas em espacos"
+  }
+}
